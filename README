@@ -1,0 +1,7 @@
+
+git clone https://github.com/opensag/build.git
+cp build/*.sh /home
+cd /home
+./*.sh
+
+
